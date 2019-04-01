@@ -1,0 +1,191 @@
+
+<html style="width:1070px;height:1000px">
+  
+<head>
+  
+  <title> Online Resume</title>
+      <style type="text/css">
+  div.main{
+  position:relative;
+  min-height:100%;
+  width:190px;
+  height:100%;
+  }
+  #d01{
+     position:relative;
+	 left:70px;
+	 bottom:80px;
+	 color:white;
+	 }
+   #d02{
+     position:relative;
+	 bottom:70px;
+	 }
+   #d03{
+     position:relative;
+	 left:70px;
+	 bottom:125px;
+	 color:white;
+	 }
+   #d04{
+     position:relative;
+	 bottom:100px;
+	 }
+   #d05{
+     position:relative;
+	 left:70px;
+	 bottom:155px;
+	 color:white;
+	 }
+
+    #d06{
+     position:relative;
+	 bottom:100px;
+	 text-shadow: 2px 2px 5px red;
+	 font-family: courier;
+	 font-size:80px;
+	 text-align:center;
+	 }
+	#d07{
+     position:relative;
+	 bottom:130px;
+	 color:red;
+	 font-family: courier;
+	 font-size:28px;
+	 left:10px;
+	 }
+	#d08{
+     position:relative;
+	 bottom:230px;
+	 color:red;
+	 font-family: courier;
+	 font-size:28px;
+	 left:10px;
+	 }
+	#d09{
+     position:relative;
+	 bottom:100px;
+	 color:red;
+	 font-family: courier;
+	 font-size:28px;
+	 left:10px;
+	 }
+	 #d10{
+     position:relative;
+	 bottom:200px;
+	 color:red;
+	 font-family: courier;
+	 font-size:28px;
+	 left:10px;
+	 }
+	
+		</style>
+</head>
+  
+  <body>
+    
+    <div style="width: 24%; float:left; background-color:red"  class="main">
+	
+	<br><br>
+     <p align="center">
+      <img src="Aditya.png" height="210" width="210" style="border-radius:50%;border-style: solid;border-color: white"> </img>
+    </p>
+	
+	<p style="font-size:30px;text-align:center"> ADITYA BHANDARI</p>
+	<p style="font-size:20px;text-align:center;color:white"> STUDENT</p>
+	
+	 <img src="address.png" height="60" width="60" border="3"> </img>
+	 <div id="d01">
+	 <p>D-10310, HOSTEL NO.10, <br>MANIT <br> Bhopal</p>
+	 </div>
+	 
+	 <div id="d02">
+	 <img src="phone.png" height="60" width="60" border="3"> </img>
+	 </div>
+	 
+	 <div id="d03">
+	 <p>9003207084</p>
+	 </div>
+	 
+	 <div id="d04">
+	 <img src="gmail.png" height="50" width="60" border="3"> </img>
+	 </div>
+	 
+	 <div id="d05">
+	 <p>adityabhandari1500@gmail</p>
+	 </div>
+	 
+	
+	
+	
+	</div>
+
+    <div style="width: 76%; float:right">
+	
+	
+	<div id="d06">
+	<p ><u> RESUME </u></p>
+   </div>
+   
+   <div id="d07">
+   
+   <h3>PROFILE<hr style="position:relative;bottom:30px;left:150px;"></h3>
+   <br><br>
+   <ul style="font-size:20;position:relative;bottom:100px;">
+
+   <li>DOB: <span style="color:black"> 15-12-2000</span></li>                     
+   <li>Home Town:<span style="color:black"> Jaipur,Rajasthan</span></li>
+   <li>Currently studing at:<span style="color:black"> MANIT Bhopal,pursuying CSE Btech (1<sup>st</sup> Year)</span></li>
+   <li>Scholar Number:<span style="color:black"> 181112102</span></li>
+   </ul>
+   
+   </div>
+   
+   <div id="d08">
+
+	<h3>EDUCATION<hr style="position:relative;bottom:30px;left:190px;"></h3>
+   <br><br>
+   <div style="font-size:20;position:relative;bottom:100px;">
+   
+   <pre>10 <sup>th</sup> BOARD:<span style="color:black">           Lilavatibai Podar High School, ICSE Board , secured 95.2% </span></pre>                   
+   <pre>12 <sup>th</sup> BOARD:<span style="color:black">           Chettinad Vidyashram, CBSE Board , secured 94% </span></pre>
+   <pre>JEE Mains:<span style="color:black">  	       AIR:7535</span></pre>
+   <pre>SGPA for 1<sup>st</sup>Semester:<span style="color:black">  8.56</span></pre>
+   
+   </div>
+   
+   <div id="d09">
+   
+   <h3>HOBBIES<hr style="position:relative;bottom:30px;left:150px;"></h3>
+   <br><br>
+   <ul style="font-size:20;position:relative;bottom:100px;">
+
+   <li style="color:black"> Reading Books</li>                     
+   <li>Listening Music</li>
+   <li style="color:black"> Watching Movies and anime</li>
+   <li>Cycling</li>
+   </ul>
+   
+   </div>
+   
+   <div id="d10">
+   
+   <h3>SKILLS<hr style="position:relative;bottom:30px;left:150px;"></h3>
+   <br><br>
+   <ul style="font-size:20;position:relative;bottom:100px;">
+
+   <li style="color:black"> Optimist</li>                     
+   <li>Punctual</li>
+   <li style="color:black"> Team- Spirit</li>
+   <br>
+   <li>Basic knowledge of C/C++</li>
+   </ul>
+   
+   </div>
+   </div>
+
+</div>
+    
+   </body>
+  
+</html>
